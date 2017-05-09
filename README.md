@@ -4,3 +4,4 @@
 
 #More cool stuff to come
 #Why don't we move on to the next lab
+#Labs are great!
